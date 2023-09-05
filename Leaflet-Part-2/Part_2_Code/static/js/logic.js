@@ -33,7 +33,7 @@ function initMap() {
   // Create a new map with specified options
   let map = L.map("map", {
     center: [
-      37.09, -95.71
+      39.3200, -111.0937 
     ],
     zoom: 5,
     layers: [satellite, greyscale, outdoors, earthquakes, plates]
